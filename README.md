@@ -1,1 +1,2 @@
-# uniform_distribution_using_python
+# KNN_Demonstration_using_python
+This program demonstrates the working of the knn algorithm using dynamically generated datasets
